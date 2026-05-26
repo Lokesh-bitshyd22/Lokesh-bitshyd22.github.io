@@ -33,9 +33,8 @@ at interfaces while keeping the optimization stable took most of the debugging t
 
 ## The Result
 
-The project ended in a joint manuscript with Prof. Reddy and Prof. Seshaiyer.
-Writing it taught me as much as the implementation did — translating numerical
-experiments into precise mathematical claims is its own skill.
+The project culminated in a joint manuscript with Prof. Reddy and Prof. Seshaiyer.
+It taught me how to think systematically and combine elegant ideas from different domains toward a concrete application. I also learnt that translating numerical experiments into precise mathematical claims is a skill in itself.
 
 ## What I'd Tell Someone Starting This
 
