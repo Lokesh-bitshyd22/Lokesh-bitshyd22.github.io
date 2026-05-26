@@ -18,7 +18,7 @@ permalink: /about/
   <p>
     My interests sit at the intersection of mathematics and theoretical computer science —
     specifically algebraic complexity theory, polynomial and finite-field methods, and
-    algebraic combinatorics. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
+    algebra & combinatorics. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
     as a Visiting Student for a year-long thesis on algebraic methods in computational complexity.
   </p>
   <p>
