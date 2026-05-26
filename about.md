@@ -71,7 +71,7 @@ permalink: /about/
   <div class="exp-item">
     <div class="exp-date">2025 — now</div>
     <div class="exp-content">
-      <h3>Visiting Student (Thesis)</h3>
+      <h3>Visiting Student (Master's Thesis)</h3>
       <p class="org">The Institute of Mathematical Sciences (IMSc), Chennai</p>
       <p>Year-long thesis on algebraic methods in computational complexity.</p>
     </div>
