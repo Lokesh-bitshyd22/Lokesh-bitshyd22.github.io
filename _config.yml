@@ -1,35 +1,27 @@
-title: Lokesh
-description: Developer. Builder. Thinker.
-author: Lokesh
-email: your@email.com
+title: Lokesh Lakshminarayanan
+description: Mathematics & CS @ BITS Pilani. Theoretical computer science, algebra, combinatorics.
+author: Lokesh Lakshminarayanan
+email: 1901lokesh@gmail.com
 baseurl: ""
-url: "https://lokesh2005.github.io"
+url: "https://lokesh-bitshyd22.github.io"
 
-github_username: lokesh2005
+github_username: Lokesh-bitshyd22
 linkedin_username: lokesh2005
 
-# Build settings
 markdown: kramdown
 theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - node_modules
 
-# Permalink style
 permalink: /blog/:year/:month/:title/
 
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# Collections
 collections:
   projects:
     output: true

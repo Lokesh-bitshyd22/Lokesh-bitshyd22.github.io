@@ -3,41 +3,56 @@ layout: default
 ---
 
 <section class="home-intro">
-  <h1>Lokesh<br><em>Student & Developer.</em></h1>
+  <h1>Lokesh<br><em>Mathematician & Computer Scientist.</em></h1>
   <p class="tagline">
-    I build things with code — from web apps to systems that solve real problems.
-    Currently studying at <!-- Your College -->, exploring the edge between
-    software engineering and everything else.
+    Final-year undergraduate in Mathematics and Computer Science at BITS Pilani, Hyderabad.
+    Interested in theoretical computer science, algebraic complexity, and combinatorics.
+    Incoming Visiting Student at The Institute of Mathematical Sciences.
   </p>
 </section>
 
 <section class="home-section">
   <h2>Now</h2>
   <p>
-    <!-- What you're currently working on, learning, or thinking about.
-         Update this regularly — it keeps your site alive. -->
-    Currently working on <!-- Project Name -->, learning <!-- Skill/Topic -->,
-    and looking for opportunities in <!-- domain e.g. backend / full-stack -->.
+    Wrapping up my dual degree (M.Sc. Mathematics & B.E. CS) at BITS Pilani.
+    Starting a year-long thesis at IMSc Chennai on algebraic methods in computational complexity.
+    Currently studying field theory and extremal combinatorics.
   </p>
 </section>
 
 <section class="home-section">
   <h2>Selected Projects</h2>
 
-  <!-- Repeat this block for each project (max 3 here) -->
   <div class="projects-list">
     <div class="project-item">
       <div class="project-main">
-        <h2>Project Name</h2>
-        <p>A short one-liner describing what it does and why it matters.</p>
+        <h2>Galerkin Neural Networks for PDEs</h2>
+        <p>Neural-network-based Galerkin framework in JAX for solving partial differential equations. Explored adaptive basis construction, domain decomposition, and time discretization. Resulted in a joint publication.</p>
         <div class="project-tags">
+          <span class="tag">JAX</span>
           <span class="tag">Python</span>
-          <span class="tag">React</span>
+          <span class="tag">NumPy</span>
+          <span class="tag">Computational Mathematics</span>
         </div>
       </div>
       <div class="project-meta">
-        <span class="project-year">2024</span>
-        <a class="project-link" href="https://github.com/lokesh2005/project" target="_blank">↗ view</a>
+        <span class="project-year">2025</span>
+      </div>
+    </div>
+
+    <div class="project-item">
+      <div class="project-main">
+        <h2>Tiger Language Compiler</h2>
+        <p>Compiler front-end for a subset of the Tiger programming language using Lex and Bison. Implemented parsing, syntax-directed translation, and three-address code generation.</p>
+        <div class="project-tags">
+          <span class="tag">C</span>
+          <span class="tag">Lex</span>
+          <span class="tag">Bison</span>
+        </div>
+      </div>
+      <div class="project-meta">
+        <span class="project-year">2026</span>
+        <a class="project-link" href="https://github.com/Lokesh-bitshyd22/Tiger-Compiler" target="_blank">↗ github</a>
       </div>
     </div>
   </div>
