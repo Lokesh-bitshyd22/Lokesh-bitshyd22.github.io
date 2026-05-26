@@ -3,10 +3,10 @@ layout: default
 ---
 
 <section class="home-intro">
-  <h1>Lokesh<br><em>Mathematician & Computer Scientist.</em></h1>
+  <h1>Lokesh<br><em>Student of Mathematics & Computer Science.</em></h1>
   <p class="tagline">
     Final-year undergraduate in Mathematics and Computer Science at BITS Pilani, Hyderabad.
-    Interested in theoretical computer science, algebraic complexity, and combinatorics.
+    Interested in theoretical computer science, algebraic complexity, abstract algebra and combinatorics.
     Incoming Visiting Student at The Institute of Mathematical Sciences.
   </p>
 </section>
