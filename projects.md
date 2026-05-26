@@ -22,11 +22,11 @@ permalink: /projects/
         Prof. Padmanabhan Seshaiyer (George Mason University). Resulted in a joint publication.
       </p>
       <div class="project-tags">
+        <span class="tag">Computational Mathematics</span>
+        <span class="tag">Optimization</span>
         <span class="tag">JAX</span>
         <span class="tag">Python</span>
         <span class="tag">NumPy</span>
-        <span class="tag">Computational Mathematics</span>
-        <span class="tag">Optimization</span>
       </div>
     </div>
     <div class="project-meta">
@@ -61,11 +61,11 @@ permalink: /projects/
       <p>
         Studied algebraic and polynomial methods in extremal combinatorics, including
         finite-field techniques, linear-algebraic methods, and applications of the polynomial
-        method to combinatorial problems. Conducted under Prof. Sajith Padinhatteeri at BITS Pilani.
+        method to combinatorial problems. Conducted under Prof. Sajith Padinhatteeri at BITS Pilani, Hyderabad.
       </p>
       <div class="project-tags">
-        <span class="tag">Abstract Algebra</span>
         <span class="tag">Combinatorics</span>
+        <span class="tag">Abstract Algebra</span>
         <span class="tag">Finite Fields</span>
       </div>
     </div>
@@ -80,7 +80,7 @@ permalink: /projects/
       <p>
         Deep study of finite fields, polynomial rings, field extensions, and modules over
         principal ideal domains, with emphasis on algebraic structures relevant to
-        computational complexity and combinatorics. Conducted under Prof. Pratyusha Chattopadhyay.
+        computational complexity and combinatorics. Conducted under Prof. Pratyusha Chattopadhyay at BITS Pilani, Hyderabad.
       </p>
       <div class="project-tags">
         <span class="tag">Abstract Algebra</span>
