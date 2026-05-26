@@ -22,8 +22,7 @@ permalink: /about/
     as a Visiting Student for a year-long thesis on algebraic methods in computational complexity.
   </p>
   <p>
-    Outside academics, I think about open problems, read broadly across mathematics, and
-    occasionally write about things I'm learning.
+    Outside academics, I spend some time thinking about philosophical questions, reading broadly across mathematics, and occasionally writing reflections on things I’m learning.
   </p>
 </div>
 
@@ -50,9 +49,9 @@ permalink: /about/
   <div class="skill-group">
     <h3>Tools</h3>
     <ul>
-      <li>Python (NumPy, JAX)</li>
-      <li>LaTeX</li>
       <li>C</li>
+      <li>LaTeX</li>
+      <li>Python (NumPy, JAX)</li>
       <li>Git</li>
     </ul>
   </div>
