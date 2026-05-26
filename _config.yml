@@ -1,0 +1,36 @@
+title: Lokesh
+description: Developer. Builder. Thinker.
+author: Lokesh
+email: your@email.com
+baseurl: ""
+url: "https://lokesh2005.github.io"
+
+github_username: lokesh2005
+linkedin_username: lokesh2005
+
+# Build settings
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+# Permalink style
+permalink: /blog/:year/:month/:title/
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
