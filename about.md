@@ -5,8 +5,13 @@ permalink: /about/
 ---
 
 <section class="about-header">
-  <h1>Lokesh Lakshminarayanan</h1>
-  <p class="subtitle">Tamil Nadu, India</p>
+  <div class="about-hero">
+    <img src="{{ '/assets/profile.jpeg' | relative_url }}" alt="Lokesh Lakshminarayanan" class="profile-pic" />
+    <div class="about-hero-text">
+      <h1>Lokesh Lakshminarayanan</h1>
+      <p class="subtitle">Tamil Nadu, India</p>
+    </div>
+  </div>
 </section>
 
 <div class="about-body">
@@ -18,11 +23,12 @@ permalink: /about/
   <p>
     My interests sit at the intersection of mathematics and theoretical computer science —
     specifically algebraic complexity theory, polynomial and finite-field methods, and
-    algebra & combinatorics. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
+    algebraic combinatorics. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
     as a Visiting Student for a year-long thesis on algebraic methods in computational complexity.
   </p>
   <p>
-    Outside academics, I spend some time thinking about philosophical questions, reading broadly across mathematics, and occasionally writing reflections on things I’m learning.
+    Outside academics, I think about open problems, read broadly across mathematics, and
+    occasionally write about things I'm learning.
   </p>
 </div>
 
@@ -49,9 +55,9 @@ permalink: /about/
   <div class="skill-group">
     <h3>Tools</h3>
     <ul>
-      <li>C</li>
-      <li>LaTeX</li>
       <li>Python (NumPy, JAX)</li>
+      <li>LaTeX</li>
+      <li>C</li>
       <li>Git</li>
     </ul>
   </div>
@@ -71,7 +77,7 @@ permalink: /about/
   <div class="exp-item">
     <div class="exp-date">2025 — now</div>
     <div class="exp-content">
-      <h3>Visiting Student (Master's Thesis)</h3>
+      <h3>Visiting Student (Thesis)</h3>
       <p class="org">The Institute of Mathematical Sciences (IMSc), Chennai</p>
       <p>Year-long thesis on algebraic methods in computational complexity.</p>
     </div>
