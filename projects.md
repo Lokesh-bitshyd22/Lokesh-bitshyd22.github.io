@@ -31,6 +31,7 @@ permalink: /projects/
     </div>
     <div class="project-meta">
       <span class="project-year">2025</span>
+      <a class="project-link" href="https://link.springer.com/article/10.1007/s44379-026-00056-0" rel="noopener">↗ paper</a>
     </div>
   </div>
 
