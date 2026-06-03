@@ -5,7 +5,7 @@ date: 2026-06-03
 tags: [research, obsidian, ai-tools, phd, workflow]
 ---
 
-I am a research student at IMSc working on algebraic complexity theory — specifically polynomial identity testing and arithmetic circuit lower bounds. Over the past few weeks I have been building a structured knowledge system to manage a year-long thesis. This post describes the full setup: vault structure, templates, and how different AI tools are assigned distinct roles.
+Over the past few weeks I have been building a structured knowledge system to manage a year-long thesis. This post describes the full setup: vault structure, templates, and how different AI tools are assigned distinct roles.
 
 ---
 
