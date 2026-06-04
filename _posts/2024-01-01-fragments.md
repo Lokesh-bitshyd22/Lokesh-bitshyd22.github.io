@@ -1,6 +1,6 @@
 -----
 
-## layout: post
+ layout: post
 title: “Fragments”
 date: 2024-01-01
 category: writing
