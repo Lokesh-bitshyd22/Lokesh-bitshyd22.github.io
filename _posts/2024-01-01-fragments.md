@@ -1,10 +1,10 @@
------
+---
 layout: post
 title: “Fragments”
 date: 2024-01-01
 category: writing
 description: “Aphorisms, philosophy, and notes on perception — collected over time.”
-----
+---
 Aphorisms, philosophy, and notes on perception — collected over time.*
 
 ## On Time & Struggle
