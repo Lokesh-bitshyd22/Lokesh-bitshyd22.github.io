@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Fragments”
+title: Fragments
 date: 2026-06-04
 category: writing
 description: “Aphorisms, philosophy, and notes on perception — collected over time.”
@@ -13,17 +13,18 @@ Time is the only solution that dissolves every problem.
 
 You can kill a pain only with pain.
 
-Keep fighting. There is no other way.
-
 You may not be able to rewrite fate, but you can delete (refuse) it.
+
+It is meaningful only to regret about being able to regret.
+
+You worry only if you think.
 
 -----
 
 ## On Goals & Passion
 
-You can’t chase without staying behind. Goals are meant to be chased — you may never reach them, but you must always be moving toward them.
-
-Goals are meant to be chased, not necessarily achieved. The path defines you, not the destination.
+You can’t chase without staying behind. 
+*(Goals are meant to be chased, not necessarily achieved. The path defines you, not the destination.)*
 
 Passion is different from a goal. A passion is to be followed; a goal is to be chased.
 
@@ -32,6 +33,8 @@ Passion is not obsession.
 Don’t divide your work into success and failure. It is all progress toward something you care about.
 
 A brilliant move followed by a careless one can still fetch a defeat. Potential is useless when it cannot become kinetic.
+
+How much you gain depends on how much you are willing to lose.
 
 -----
 
@@ -92,12 +95,6 @@ They say: *keep working hard, and you will fly one day.* What they don’t say i
 Follow the light.
 
 Don’t be too positive — it attracts negativity. Being too happy today makes you expect the same tomorrow, and that expectation is what makes tomorrow hard.
-
-How much you gain depends on how much you are willing to lose.
-
-It is meaningful only to regret about being able to regret.
-
-You worry only if you think.
 
 Water is tasteless — otherwise we would tire of it. Everything we attach instrumental value to decays eventually.
 
