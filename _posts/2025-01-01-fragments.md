@@ -92,8 +92,6 @@ They say: *keep working hard, and you will fly one day.* What they don’t say i
 
 ## Miscellaneous
 
-Follow the light.
-
 Don’t be too positive — it attracts negativity. Being too happy today makes you expect the same tomorrow, and that expectation is what makes tomorrow hard.
 
 Water is tasteless — otherwise we would tire of it. Everything we attach instrumental value to decays eventually.
