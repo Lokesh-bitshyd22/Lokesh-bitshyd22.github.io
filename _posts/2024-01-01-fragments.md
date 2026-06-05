@@ -15,7 +15,7 @@ You can kill a pain only with pain.
 
 Keep fighting. There is no other way.
 
-You may not be able to rewrite fate, but you can refuse it. It is all reaction.
+You may not be able to rewrite fate, but you can delete (refuse) it.
 
 -----
 
