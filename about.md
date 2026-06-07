@@ -6,7 +6,7 @@ permalink: /about/
 
 <section class="about-header">
   <div class="about-hero">
-    <img src="{{ '/assets/profile.jpeg' | relative_url }}" alt="Lokesh Lakshminarayanan" class="profile-pic" />
+    <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Lokesh Lakshminarayanan" class="profile-pic" />
     <div class="about-hero-text">
       <h1>Lokesh Lakshminarayanan</h1>
       <p class="subtitle">Tamil Nadu, India</p>
