@@ -75,7 +75,7 @@ permalink: /about/
   <h2>Education & Research</h2>
 
   <div class="exp-item">
-    <div class="exp-date">2025 — now</div>
+    <div class="exp-date">2026 - </div>
     <div class="exp-content">
       <h3>Visiting Student (Thesis)</h3>
       <p class="org">The Institute of Mathematical Sciences (IMSc), Chennai</p>
