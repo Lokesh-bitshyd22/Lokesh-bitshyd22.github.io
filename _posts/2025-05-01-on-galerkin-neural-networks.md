@@ -23,13 +23,6 @@ residual computation and the optimization loop. JAX's `vmap` and `jit` made
 batching and compilation straightforward, and `grad` handled the variational
 derivatives cleanly.
 
-## What Actually Took Time
-
-The theory is elegant. The implementation surface is not.
-
-Domain decomposition — splitting the PDE domain into subregions and patching
-solutions together — sounds clean on paper. In practice, enforcing continuity
-at interfaces while keeping the optimization stable took most of the debugging time.
 
 ## The Result
 
