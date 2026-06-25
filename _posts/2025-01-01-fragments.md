@@ -3,7 +3,7 @@ layout: post
 title: Fragments
 date: 2026-06-04
 category: writing
-description: “Aphorisms, philosophy, and notes on perception — collected over time.”
+description: Aphorisms, philosophy, and notes on perception — collected over time.
 ---
 Aphorisms, philosophy, and notes on perception — collected over time.*
 
