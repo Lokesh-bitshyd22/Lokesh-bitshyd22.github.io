@@ -537,6 +537,14 @@ footer .social-links a:hover {
   border-top: var(--line);
   margin: 2.5rem 0;
 }
+.post-views {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--gray-mid);
+  letter-spacing: 0.03em;
+  text-align: left;
+  margin-top: 2.5rem;
+}
 
 /* ========================
    HOME — RECENT POSTS
