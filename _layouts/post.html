@@ -14,7 +14,25 @@ layout: default
     </div>
   </header>
 
-  <div class="post-content">
+<div class="post-content">
     {{ content }}
   </div>
+
+  <div class="post-views">
+    <span id="goatcounter-views">…</span> views
+  </div>
 </article>
+
+<script data-goatcounter="https://lokesh-portfolio.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+<script>
+  fetch('https://lokesh-portfolio.goatcounter.com/counter/' + encodeURIComponent('{{ page.url }}') + '.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      document.getElementById('goatcounter-views').textContent = data.count_unique;
+    })
+    .catch(function() {
+      document.getElementById('goatcounter-views').textContent = '—';
+    });
+</script>
