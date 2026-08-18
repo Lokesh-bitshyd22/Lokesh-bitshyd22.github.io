@@ -16,19 +16,13 @@ permalink: /about/
 
 <div class="about-body">
   <p>
-    I'm a final-year undergraduate pursuing a dual degree — M.Sc. Mathematics and B.E. Computer
-    Science — at BITS Pilani, Hyderabad Campus (2022–2027), with a CGPA of 8.96.
-    I'm ranked #1 in 8 out of 14 core M.Sc. Mathematics courses (Mathematics CGPA: 9.64).
-  </p>
-  <p>
+    I'm a final-year undergraduate pursuing a dual degree.
     My interests sit at the intersection of mathematics and theoretical computer science —
-    specifically algebraic complexity theory, polynomial and finite-field methods, and
-    algebraic combinatorics. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
+    specifically algebraic complexity, proof complexity. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
     as a Visiting Student for a year-long thesis on algebraic methods in computational complexity.
   </p>
   <p>
-    Outside academics, I think about open problems, read broadly across mathematics, and
-    occasionally write about things I'm learning.
+    Outside academics, I think about open problems.
   </p>
 </div>
 
@@ -60,13 +54,12 @@ permalink: /about/
       <li>C</li>
       <li>Git</li>
     </ul>
-  </div>
+  </div> 
   <div class="skill-group">
     <h3>Currently Exploring</h3>
     <ul>
-      <li>Algebraic Complexity Theory</li>
-      <li>Finite-field Methods</li>
-      <li>Extremal Combinatorics</li>
+      <li>Arithmetic Circuit Complexity</li>
+      <li>Proof Complexity</li>
     </ul>
   </div>
 </div>
