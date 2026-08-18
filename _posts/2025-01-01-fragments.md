@@ -13,7 +13,7 @@ Time is the only solution that dissolves every problem.
 
 You can kill a pain only with pain.
 
-You may not be able to rewrite fate, but you can delete (refuse) it.
+<!--You may not be able to rewrite fate, but you can delete (refuse) it.-->
 
 It is meaningful only to regret about being able to regret.
 
@@ -30,9 +30,11 @@ Passion is different from a goal. A passion is to be followed; a goal is to be c
 
 Passion is not obsession.
 
-Don’t divide your work into success and failure. It is all progress toward something you care about.
+It is all about progress.
 
-A brilliant move followed by a careless one can still fetch a defeat. Potential is useless when it cannot become kinetic.
+A brilliant move followed by a careless one can still fetch a defeat. 
+
+Potential is useless when it can't be kinetic.
 
 How much you gain depends on how much you are willing to lose.
 
@@ -73,10 +75,10 @@ Language → exploration → question → lemma → theorem → revision → col
 Is *almost always true* a better knowledge machine, or *always almost true*?
 If you had to design one, which would you choose?
 
-**A paradox I keep returning to:** the span of any language is finite, and therefore not universal. But does the collection of all languages form a universal set? If so, is it unique? And is the set of mathematical knowledge itself finite?
+<!--**A paradox I keep returning to:** the span of any language is finite, and therefore not universal. But does the collection of all languages form a universal set? If so, is it unique? And is the set of mathematical knowledge itself finite? -->
 
 There is no fruit without a root. There is no root without a fruit.
-*(Parent–child. Cause and effect. Mutation and species. Infinite recursion — and somewhere in there, the undecidability of A_TM.)*
+*(Parent–child. Cause and effect. Mutation and species. Infinite recursion — and somewhere in there, the undecidability of A_TM !.)*
 
 -----
 
@@ -86,7 +88,7 @@ Freewill is not free.
 
 Imposing too many rules only creates chaos — like compressing a container until the volume escapes. It makes people look for loopholes rather than simply being themselves.
 
-They say: *keep working hard, and you will fly one day.* What they don’t say is that they are waiting to eat you once you do.
+<!--They say: *keep working hard, and you will fly one day.* What they don’t say is that they are waiting to eat you once you do.-->
 
 -----
 
