@@ -22,7 +22,7 @@ permalink: /about/
     as a Visiting Student for a year-long thesis on algebraic methods in computational complexity.
   </p>
   <p>
-    Outside academics, I think about open problems.
+   <!-- Outside academics, -->
   </p>
 </div>
 
@@ -52,7 +52,6 @@ permalink: /about/
       <li>Python (NumPy, JAX)</li>
       <li>LaTeX</li>
       <li>C</li>
-      <li>Git</li>
     </ul>
   </div> 
   <div class="skill-group">
