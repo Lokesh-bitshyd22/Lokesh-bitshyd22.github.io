@@ -29,7 +29,7 @@ permalink: /about/
     <h3>Mathematics</h3>
     <ul>
       <li>Combinatorics & Graph Theory</li>
-      <li>Topology 
+      <li>Topology <li>
       <li>Real Analysis & Measure theory</li>
       <li>Number Theory</li>
       <li>Abstract Algebra</li>
