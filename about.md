@@ -106,7 +106,7 @@ permalink: /about/
     <div class="exp-content">
       <h3>Study Project — Field Theory & Algebraic Structures</h3>
       <p class="org">BITS Pilani, Hyderabad</p>
-      <p>Studied polynomial rings, integral domains (including Euclidean domains, principal ideal domains, and unique factorization domains), field extensions, and modules over principal ideal domains, with emphasis on algebraic structures relevant to theoretical computer science and computational complexity..</p>
+      <p>Studied polynomial rings, integral domains (including Euclidean domains, principal ideal domains, and unique factorization domains), field extensions, and modules over principal ideal domains, with emphasis on algebraic structures relevant to theoretical computer science and computational complexity.</p>
     </div>
   </div>
 
