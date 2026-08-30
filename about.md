@@ -17,9 +17,7 @@ permalink: /about/
 <div class="about-body">
   <p>
     I'm a final-year undergraduate pursuing a dual degree.
-    My interests sit at the intersection of mathematics and theoretical computer science —
-    specifically algebraic complexity, proof complexity. I'm headed to The Institute of Mathematical Sciences (IMSc), Chennai
-    as a Visiting Student for a year-long thesis on algebraic methods in computational complexity.
+    My interests sit at the intersection of mathematics and theoretical computer science. 
   </p>
   <p>
    <!-- Outside academics, -->
@@ -80,7 +78,7 @@ permalink: /about/
     <div class="exp-content">
       <h3>M.Sc. Mathematics & B.E. Computer Science (Dual Degree)</h3>
       <p class="org">BITS Pilani, Hyderabad Campus</p>
-      <p>CGPA: 8.96 / 10. Ranked #1 in 8 of 14 core mathematics courses. Mathematics CGPA: 9.64.</p>
+     <!-- <p>CGPA: 8.96 / 10. Ranked #1 in 8 of 14 core mathematics courses. Mathematics CGPA: 9.64.</p> -->
     </div>
   </div>
 
