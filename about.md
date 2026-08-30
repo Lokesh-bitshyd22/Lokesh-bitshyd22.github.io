@@ -96,7 +96,7 @@ permalink: /about/
     <div class="exp-content">
       <h3>Study Project — Extremal Combinatorics</h3>
       <p class="org">BITS Pilani, Hyderabad</p>
-      <p>Studied classical extremal combinatorics problems under Prof. Sajith Padinhatteeri. Focus on polynomial and finite-field methods in extremal bounds.</p>
+      <p>Studied algebraic and polynomial methods in extremal combinatorics, including finite-field techniques, linear-algebraic methods, and applications of the polynomial method to combinatorial problems.</p>
     </div>
   </div>
 
@@ -105,7 +105,7 @@ permalink: /about/
     <div class="exp-content">
       <h3>Study Project — Field Theory & Algebraic Structures</h3>
       <p class="org">BITS Pilani, Hyderabad</p>
-      <p>Studied field extensions, finite fields, and polynomial methods under Prof. Pratyusha Chattopadhyay, with emphasis on algebraic foundations for complexity and combinatorics.</p>
+      <p>Studied polynomial rings, integral domains (including Euclidean domains, principal ideal domains, and unique factorization domains), field extensions, and modules over principal ideal domains, with emphasis on algebraic structures relevant to theoretical computer science and computational complexity..</p>
     </div>
   </div>
 
