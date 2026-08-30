@@ -7,7 +7,6 @@ layout: default
   <p class="tagline">
     Final-year undergraduate in Mathematics and Computer Science at BITS Pilani, Hyderabad.
     Interested in theoretical computer science, algebraic complexity, abstract algebra and combinatorics.
-    Incoming Visiting Student at The Institute of Mathematical Sciences.
   </p>
 </section>
 
@@ -16,7 +15,6 @@ layout: default
   <p>
     Wrapping up my dual degree (M.Sc. Mathematics & B.E. CS) at BITS Pilani.
     Starting a year-long thesis at IMSc Chennai on algebraic methods in computational complexity.
-    Currently studying field theory and extremal combinatorics.
   </p>
 </section>
 
