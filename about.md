@@ -29,7 +29,7 @@ permalink: /about/
     <h3>Mathematics</h3>
     <ul>
       <li>Combinatorics & Graph Theory</li>
-      <li>Topology <li>
+      <li>Topology </li>
       <li>Real Analysis & Measure theory</li>
       <li>Number Theory</li>
       <li>Abstract Algebra</li>
@@ -42,7 +42,7 @@ permalink: /about/
       <li>Theory of Computation</li>
       <li>Logic in CS</li>
       <li>Discrete Mathematics</li>
-      <li>Algorithms & Optimisation</li>
+      <li>Algorithms & Optimization</li>
     </ul>
   </div>
   <div class="skill-group">
