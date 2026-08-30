@@ -28,10 +28,11 @@ permalink: /about/
   <div class="skill-group">
     <h3>Mathematics</h3>
     <ul>
-      <li>Abstract Algebra</li>
       <li>Combinatorics & Graph Theory</li>
-      <li>Topology & Real Analysis</li>
+      <li>Topology 
+      <li>Real Analysis & Measure theory</li>
       <li>Number Theory</li>
+      <li>Abstract Algebra</li>
       <li>Linear Algebra</li>
     </ul>
   </div>
